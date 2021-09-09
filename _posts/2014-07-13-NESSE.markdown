@@ -7,6 +7,10 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-preview: This is some text
+preview: "It is a true pleasure to work with Alex. She is highly committed to sustainability, equality, an
+excellent communicator and strong team player."
 ---
-Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+"It is a true pleasure to work with Alex. She is highly committed to sustainability, equality, an
+excellent communicator and strong team player. She works well with people from all
+backgrounds but has an obvious ability to lead and develop new ideas. No matter what is
+thrown at her she has a positive attitude and determination to achieve. Alex’s commitment to the values of equality, social justice and environmental are demonstrated through her choices of work and other activities." Dr Jennifer Dodson, former Executive Director of NESSE
